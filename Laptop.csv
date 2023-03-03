@@ -1,0 +1,4 @@
+SELECT * FROM laptops
+ORDER BY Price asc;
+CREATE INDEX ID
+ON laptops (NAME)
